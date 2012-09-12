@@ -15,6 +15,7 @@ public class JavaApplication6 {
      */
     public static void main(String[] args) {
         // local edit 6
+        // server edit 6
         // TODO code application logic here
     }
 }
